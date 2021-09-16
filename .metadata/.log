@@ -1,0 +1,16 @@
+!SESSION 2021-09-02 08:39:14.514 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data @user.home/Documents/MCUXpressoIDE_11.4.0_6237/workspace
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2021-09-02 08:40:25.285
+!MESSAGE Recreating part support. No part support available.
+
+!ENTRY MCUXpresso IDE SDK import 4 -1 2021-09-02 08:44:44.440
+!MESSAGE The following items are not supported or not valid SDKs
+[C:\Users\ncmin\Downloads\SDK_2_10_0_LPCXpresso55S69]
+
+!ENTRY com.nxp.mcuxpresso.core.datamodels 1 0 2021-09-02 08:44:53.666
+!MESSAGE The device 'LPC55S69' (version='1.0.0') from SDK 'SDK_2.x_LPCXpresso55S69' (version='2.10.0', build='494 2021-07-15') will be installed.
