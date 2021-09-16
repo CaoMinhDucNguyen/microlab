@@ -1,0 +1,2 @@
+../lpcxpresso55s69_agm01/project_template/peripherals.c:77:6:BOARD_InitPeripherals_cm33_core0	4	static
+../lpcxpresso55s69_agm01/project_template/peripherals.c:85:6:BOARD_InitBootPeripherals	8	static
